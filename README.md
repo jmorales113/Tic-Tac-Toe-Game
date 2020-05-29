@@ -1,4 +1,4 @@
-## Tic-Tac-Toe-Game built with React
+## Tic-Tac-Toe-Game Built with React
 
 ## Available Scripts
 
